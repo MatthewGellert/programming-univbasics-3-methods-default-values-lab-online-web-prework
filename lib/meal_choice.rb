@@ -1,5 +1,3 @@
-def meal_choice
-  puts #{meal_choice} "what a delicious meal"
-  puts "A plate of #{veg1} and #{veg 2}."
-  puts "additional option of plate #{protein}, with #{veg 1} and #{veg 2}."
+def what_a_nutrious_meal
+  puts "a plate of #{protein} with #{veg1} and #{veg2}"
 end
